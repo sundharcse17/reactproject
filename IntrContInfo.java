@@ -247,4 +247,10 @@ public class IntrContInfo extends ServiceLifecycle {
             Logger.getLogger(this.getClass().getSimpleName()).info(e.getMessage());
         }     
     }
+
+	private void maingit()
+	{}
+	
+	private void featurebranch()
+	{}
 }
