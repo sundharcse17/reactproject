@@ -250,4 +250,7 @@ public class IntrContInfo extends ServiceLifecycle {
 	
 	private void maingit()
 	{}
+	
+	private void featurebranch()
+	{}
 }
